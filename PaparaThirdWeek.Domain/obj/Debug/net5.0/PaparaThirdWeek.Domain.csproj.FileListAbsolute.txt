@@ -1,0 +1,15 @@
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/bin/Debug/net5.0/PaparaThirdWeek.Domain.deps.json
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/bin/Debug/net5.0/PaparaThirdWeek.Domain.runtimeconfig.json
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/bin/Debug/net5.0/PaparaThirdWeek.Domain.runtimeconfig.dev.json
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/bin/Debug/net5.0/PaparaThirdWeek.Domain.dll
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/bin/Debug/net5.0/PaparaThirdWeek.Domain.pdb
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/PaparaThirdWeek.Domain.csproj.AssemblyReference.cache
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/PaparaThirdWeek.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/PaparaThirdWeek.Domain.AssemblyInfoInputs.cache
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/PaparaThirdWeek.Domain.AssemblyInfo.cs
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/PaparaThirdWeek.Domain.csproj.CoreCompileInputs.cache
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/PaparaThirdWeek.Domain.dll
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/refint/PaparaThirdWeek.Domain.dll
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/PaparaThirdWeek.Domain.pdb
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/PaparaThirdWeek.Domain.genruntimeconfig.cache
+/Users/bestekaragoz/Projects/s/PaparaThirdWeek.Domain/obj/Debug/net5.0/ref/PaparaThirdWeek.Domain.dll
